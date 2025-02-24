@@ -1,5 +1,5 @@
 {
-    "name": "fleetbase/ledger-api",
+    "name": "ducna01120/ledger-api",
     "version": "0.0.1",
     "description": "Accounting & Invoicing Extension for Fleetbase",
     "keywords": [
@@ -25,8 +25,8 @@
     ],
     "require": {
         "php": "^8.0",
-        "fleetbase/core-api": "^1.4.30",
-        "fleetbase/fleetops-api": "^0.5.4",
+        "ducna01120/core-api": "^1.4.30",
+        "ducna01120/fleetops-api": "^0.5.4",
         "php-http/guzzle7-adapter": "^1.0",
         "psr/http-factory-implementation": "*"
     },
